@@ -60,9 +60,9 @@ entregas e também uma nota de avaliação dos serviços e produtos do restauran
 	c. Se necessário, utilizar gráficos para consolidar e validar a resposta.
 
 # 4. Top 3 Insights de dados
-1. A sazonalidade da quantidade de pedidos é diária. Há uma variação de aproximadamente 10% do número de pedidos em dia sequenciais.
-2. As cidades do tipo Semi-Urban não possuem condições baixas de trânsito.
-3. As maiores variações no tempo de entrega, acontecem durante o clima ensolarado.
+1. A Índia é o principal país da plataforma, com maior quantidade de cidades e restaurantes cadastrados. 
+2. Apesar de ser o principal país da plataforma, a Índia não possui nenhuma cidade entre as 10 primeiras em restaurantes com tipos de culinária distintos, Birmingham da Inglaterra é a principal cidade com mais restaurantes ecléticos.
+3. A indonésia é o país com menor quantidade de restaurantes cadastrados e também o que possui maior preço médio de pratos para duas pessoas, isso pode ser um indicativo do motivo pelo qual o país tem maior dificuldade de se expandir o número de restaurantes na plataforma.
 
 # 5. O produto final do projeto
 Painel online, hospedado em um Cloud e disponível para acesso em qualquer dispositivo conectado à internet.
