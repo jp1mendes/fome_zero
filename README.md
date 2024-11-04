@@ -68,5 +68,7 @@ entregas e também uma nota de avaliação dos serviços e produtos do restauran
 Painel online, hospedado em um Cloud e disponível para acesso em qualquer dispositivo conectado à internet.
 O painel pode ser acessado através desse link: https://jp1mendes-fomezero.streamlit.app/
 
+![dash](https://github.com/user-attachments/assets/1f841fde-d0dc-4a19-b7b2-b4285f9f5c71)
+
 # 6. Conclusão
 O objetivo desse projeto é criar um conjunto de gráficos e/ou tabelas que exibam as métricas de negócio definidas da melhor forma possível.
